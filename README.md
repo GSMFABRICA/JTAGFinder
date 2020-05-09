@@ -20,4 +20,5 @@
  - USB 2.0 
  - 30 I/O
  - 1.8V ~~ 5.0V
+
 www.jtagfinder.com
